@@ -12,56 +12,46 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 May 2025 01:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 01:36:10 +0000</lastBuildDate>
     <item>
       <title>Axios每日简报 2025-05-11</title>
       <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250511.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;p&gt;今天的全球动态复杂多变，涉及白宫的国内政策调整、国际外交斡旋、农业贸易壁垒、以及国内政治监督与争议。此外，经济层面围绕贸易关税和消费者债务的讨论持续进行，同时社会政治思潮的演变也受到关注。&lt;/p&gt;
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;p&gt;Today's news encompasses significant policy announcements, international diplomacy, and domestic political developments. Key events include President Trump's plan for an executive order on drug pricing, a potential Hamas hostage release timed with the President's Mideast visit, and ongoing US-China trade negotiations. Domestically, tensions rise over an incident at a New Jersey ICE facility leading to arrest threats against Democratic lawmakers, and a House Democrat is seeking a probe into a reported Qatari gift to the Trump administration. Internationally, the U.S. has suspended some Mexican livestock imports due to a pest threat, Ukrainian President Zelensky is planning potential talks with Putin, and Pope Leo XIV has issued calls for peace. Economic news focuses on tariffs and the resumption of student loan debt collections, alongside an analysis of the MAGA movement's ideological shifts.&lt;/p&gt;
 
-&lt;p&gt;## **特朗普宣布签署行政令，旨在大幅削减药品价格**
-美国总统特朗普表示，他将于周一签署一项行政命令，旨在通过实施“最惠国待遇”政策，将处方药价格降低30%至80%。该政策将要求美国支付与全球最低价国家相同的药品价格。此举旨在解决美国药品价格远高于其他国家的问题，但立即引发了制药行业的强烈反对，认为这将损害创新并可能导致对外国药品的依赖。此前，特朗普政府类似的尝试曾因法律挑战而受阻。&lt;/p&gt;
+&lt;p&gt;## **Trump Announces Executive Order to Cut Drug Prices**
+President Trump announced he will sign an executive order Monday morning aimed at cutting prescription drug prices by 30% to 80% "almost immediately." The order will institute a "Most Favored Nation" (MFN) policy, meaning the U.S. would pay the same price for drugs as the nation that pays the lowest price globally. This revives a similar MFN proposal from Trump's first term, which was halted by a federal court. It is unclear how the order will be implemented or if it applies to Medicare or Medicaid. The pharmaceutical industry group PhRMA strongly opposes the plan, calling it a "Foreign First Pricing scheme" that could jeopardize investment and access to medicines. Analysts express skepticism, noting the President's history of ambitious drug pricing rhetoric often facing legal challenges.&lt;/p&gt;
 
-&lt;p&gt;## **哈马斯将释放一名以色列裔美国人质，作为对特朗普的姿态**
-哈马斯宣布将释放以色列裔美国人质伊丹·亚历山大，此举被认为是向即将访问中东的美国总统特朗普示好，并意在推动停火协议及人道援助进入加沙。白宫特使已通知人质家属，并正前往以色列处理此事。以色列方面表示，美国已通报此情况，并强调此举不附带任何条件，但以色列在谈判期间不会停火，并将继续致力于击败哈马斯。亚历山大是目前哈马斯手中唯一在世的美国公民人质。&lt;/p&gt;
+&lt;p&gt;## **Hamas to Release Israeli-American Hostage as Gesture to Trump**
+Hamas announced it will release Israeli-American hostage Edan Alexander, held for over 550 days, as part of efforts for a ceasefire and aid to Gaza, and reportedly as a gesture to President Trump ahead of his visit to the Middle East. Alexander is the only living American citizen among the 59 hostages held by Hamas. U.S. envoy Steve Witkoff is involved in the arrangements. The Israeli Prime Minister's office stated they were informed by U.S. officials that the release would be unconditional from Israel's side, but expects it to lead to further negotiations. Israel maintains it will not cease fire during negotiations and remains committed to defeating Hamas. Qatar and Egypt welcomed the decision as a "gesture of goodwill."&lt;/p&gt;
 
-&lt;p&gt;## **美国因新世界螺旋蝇威胁暂停从墨西哥进口活牛**
-美国农业部宣布，由于新世界螺旋蝇在墨西哥持续向北蔓延，即刻起暂停通过南部边境进口墨西哥的活牛、马和野牛。新世界螺旋蝇的幼虫会侵袭温血动物的活体组织，造成严重甚至致命的伤害，亦可感染人类。尽管美墨两国上月达成共同根除该寄生虫的协议，但其向北扩散的趋势未能得到有效遏制。墨西哥农业部长对此措施表示异议，但希望能尽快达成解决方案。&lt;/p&gt;
+&lt;p&gt;## **U.S. Suspends Some Mexican Livestock Imports Amid Screwworm Threat**
+Agriculture Secretary Brooke Rollins announced the immediate suspension of live cattle, horse, and bison imports from Mexico via the southern border due to the "continued and rapid northward spread" of New World Screwworm (NWS). NWS larvae infest the flesh of warm-blooded animals, including occasionally humans, causing serious and often deadly damage. The pest was recently detected as far north as Oaxaca and Veracruz in Mexico, about 700 miles from the U.S. border. The suspension will be reviewed monthly. Mexican officials disagree with the measure but hope for a swift resolution. The USDA is currently conducting eradication efforts, including releasing sterile flies.&lt;/p&gt;
 
-&lt;p&gt;## **美中双方预告周一将有利好贸易消息**
-经过在日内瓦为期两天的谈判，美国与中国均暗示周一将发布关于贸易问题的积极联合声明。美国财政部长斯科特·贝森特称谈判取得“实质性进展”，而中国官员则表示即将发布的声明对世界而言将是“好消息”，并透露双方同意建立进一步对话机制。此前，两国间的贸易摩擦已导致关税大幅上升，对全球经济和供应链造成冲击。此消息初步提振了市场情绪。&lt;/p&gt;
+&lt;p&gt;## **U.S. and China Signal Progress in Trade Talks, "Total Reset" Claimed**
+The U.S. and China have indicated that positive news regarding their trade relationship will be announced on Monday, following two days of talks in Geneva. Treasury Secretary Scott Bessent reported "substantial progress," and President Trump claimed a "total reset" in the trade relationship had been negotiated. Chinese officials stated a coming joint statement would be "good news for the world" and that a mechanism for further talks was agreed upon. This development comes after months of escalating tit-for-tat tariffs that severely impacted trade, with U.S. retailers warning of empty shelves and price hikes. Stock markets reacted positively to the news.&lt;/p&gt;
 
-&lt;p&gt;## **众议院民主党人要求调查卡塔尔拟向特朗普赠送飞机的报道**
-众议院民主党议员里奇·托雷斯致信美国政府问责署、国防部代理监察长及政府道德办公室，要求调查有关特朗普政府计划接受卡塔尔赠送一架价值约4亿美元的波音747-8大型喷气式飞机作为“空军一号”，并在特朗普卸任后供其个人使用的报道。托雷斯质疑此举是否违反联邦道德规范或宪法中的“薪酬条款”。卡塔尔方面否认了“赠送”的说法，称仍在与美国国防部商议临时使用该飞机的可能性，尚未做出决定。&lt;/p&gt;
+&lt;p&gt;## **House Democrat Seeks Probe into Reported Qatari Jet Gift to Trump Administration**
+Representative Ritchie Torres (D-N.Y.) has requested an investigation by the GAO, the acting DoD Inspector General, and the Office of Government Ethics into reports that the Trump administration plans to accept a jet worth approximately $400 million from Qatar. The plane, a Boeing 747-8, would reportedly serve as Air Force One and later become President Trump's personal plane via his presidential library. Torres raised concerns about potential violations of federal ethics rules and the Emoluments Clause. Qatar's media attaché stated that reports of a jet being gifted are "inaccurate," but acknowledged that the "possible transfer of an aircraft for temporary use as Air Force One" is under review between the Qatari and U.S. Departments of Defense, with no decision made.&lt;/p&gt;
 
-&lt;p&gt;## **泽连斯基将前往土耳其，可能与普京举行会谈**
-乌克兰总统泽连斯基宣布将于本周晚些时候前往土耳其，与俄罗斯总统普京会面，讨论结束战争的“必要外交基础”。若会面成行，将是俄乌战争爆发三年多以来两国领导人的首次会晤。此前，美国总统特朗普呼吁俄乌双方无条件停火30天，并威胁若不遵守将实施制裁。泽连斯基及部分北约国家领导人已向特朗普表示，若停火协议达成，乌克兰准备与俄罗斯直接对话。普京虽未接受停火提议，但表示愿于周四开始直接会谈。&lt;/p&gt;
+&lt;p&gt;## **Zelensky to Travel to Turkey for Potential Talks with Putin**
+Ukrainian President Volodymyr Zelensky announced he will travel to Turkey later this week for a potential meeting with Russian President Vladimir Putin to discuss a "necessary basis for diplomacy" to end the war. If it occurs, this would be the first meeting between the two leaders since the conflict began. The announcement follows President Trump's call for a 30-day unconditional ceasefire, which Zelensky and several NATO leaders reportedly told Trump they were ready for. While Putin did not accept the ceasefire proposal, he expressed readiness for direct talks with Ukraine on Thursday. Trump urged Zelensky to attend the meeting.&lt;/p&gt;
 
-&lt;p&gt;## **遭逮捕威胁的民主党议员称国土安全部制造“恐吓环境”**
-就上周三名民主党众议员在视察新泽西州一处ICE（移民与海关执法局）设施时与执法人员发生冲突，纽瓦克市长被捕一事，国土安全部暗示可能逮捕相关议员。议员邦妮·沃森·科尔曼周日回应称，国土安全部的威胁旨在制造“恐吓环境”，并否认议员有任何不当行为，反指ICE制造混乱。议员们认为其行为受国会监督权保护，无需提前通知。国土安全部则指责议员“冲击”设施并可能袭击了执法人员。&lt;/p&gt;
+&lt;p&gt;## **Tensions Escalate Over ICE Facility Incident, Democrats Threatened with Arrest**
+The Department of Homeland Security has threatened three House Democrats—Reps. Bonnie Watson Coleman, Rob Menendez, and LaMonica McIver of New Jersey—with potential arrest following a confrontation at an ICE detention facility in Newark. The lawmakers were attempting an oversight visit when Newark Mayor Ras Baraka was arrested for trespassing. DHS accuses the lawmakers of assaulting law enforcement and "storming" the facility, a claim the Democrats vehemently deny, stating they were pushed and that DHS is creating an "environment of intimidation." They argue congressional oversight visits do not require prior notice under ICE guidelines. DHS has released body camera footage it claims supports its account, while the lawmakers say the footage exonerates them.&lt;/p&gt;
 
-&lt;p&gt;## **特朗普称与中国关系“全面重启”，贸易谈判取得“实质性进展”**
-美国财政部长斯科特·贝森特周日表示，美中贸易谈判取得“实质性进展”，此前总统特朗普称谈判促使两国贸易关系“全面重启”。贝森特透露周一将公布更多细节。此轮谈判旨在缓解数月来因关税升级而紧张的美中贸易关系，这场贸易战已对两国经济造成显著影响，并引发对全球经济衰退的担忧。&lt;/p&gt;
+&lt;p&gt;## **Pope Leo XIV Calls for Ceasefires in Gaza and Peace in Ukraine**
+In his first Sunday noon blessing, Pope Leo XIV called for an immediate ceasefire in Gaza, the return of all hostages, and humanitarian aid for the civilian population. He also appealed for a "genuine, just and lasting peace as soon as possible" in Ukraine, including the freeing of prisoners and return of children to their families. Echoing his predecessor, Pope Francis, Leo XIV repeated the call "never again war!" He also welcomed the news of a ceasefire between India and Pakistan.&lt;/p&gt;
 
-&lt;p&gt;## **特朗普政府威胁就ICE设施事件逮捕众议院民主党议员**
-美国国土安全部周六证实，可能逮捕上周在新泽西州一处ICE设施与执法人员发生冲突的民主党国会议员。国土安全部指控议员们袭击执法人员，并称有随身摄像头录像为证。涉事议员包括邦妮·沃森·科尔曼、罗布·梅嫩德斯和拉莫妮卡·麦基弗，她们否认指控，称自己才是受害者，并指责ICE阻碍合法的国会监督。众议院少数党领袖哈基姆·杰弗里斯支持其成员，要求查明与议员发生肢体冲突的蒙面探员身份。&lt;/p&gt;
+&lt;p&gt;## **Commerce Secretary Insists Consumers Won't Pay for 10% Tariffs**
+Commerce Secretary Howard Lutnick stated Sunday that baseline global tariffs of 10% are likely to remain in place for the foreseeable future. However, he insisted that foreign countries and businesses, not U.S. consumers, would bear the cost, arguing that foreign producers will have to absorb the tariff to compete with domestically produced goods. This assertion contrasts with the views of many economists and recent Federal Reserve research indicating tariffs have already started pushing consumer prices higher. Consumer inflation expectations are also at a multi-decade high.&lt;/p&gt;
 
-&lt;p&gt;## **教皇利奥十四世呼吁加沙停火及乌克兰和平**
-新任教皇利奥十四世在其首次周日正午祝福中，呼吁在加沙实现停火、释放所有人质，并在乌克兰实现和平。他继承了前任教皇方济各对巴勒斯坦人民苦难的关切以及对俄罗斯在乌克兰战争的谴责。教皇利奥十四世还对印巴之间达成停火表示欢迎，并祈祷世界实现持久和平。&lt;/p&gt;
+&lt;p&gt;## **MAGA Movement Rallies Around "Western Civilization"**
+The MAGA movement is increasingly framing its political and cultural battles as a fight for "Western civilization," a term now serving as a rallying cry. Supporters view America as a Judeo-Christian nation and successor to European civilizations, prizing what they define as freedom, rule of law, meritocracy, and the nuclear family. They express nostalgia for the 1950s and see current trends like DEI initiatives, expanded LGBTQ rights, and illegal immigration as signs of societal decline. Critics argue this worldview is regressive, racist, and overlooks historical injustices, while proponents claim it's about preserving foundational values and a "natural order."&lt;/p&gt;
 
-&lt;p&gt;## **美商务部长称10%基准关税将持续，坚称不由消费者买单**
-美国商务部长霍华德·卢特尼克周日表示，全球10%的基准关税可能会持续存在，但他坚称这部分成本将由外国公司和国家承担，而非美国消费者。多数经济学家及消费者信心调查对此观点持不同意见。特朗普总统于4月2日设定了这一全球基准关税，尽管部分针对特定国家的更高额“对等关税”后被暂停。卢特尼克强调，美国不会将关税降至10%以下。&lt;/p&gt;
+&lt;p&gt;## **Resumption of Student Loan Collections May Bring Widespread Pain**
+Student loan borrowers in default are now being referred to debt collection agencies, a development that could lead to wage garnishment and seizure of tax refunds or Social Security benefits for 5.3 million individuals. An additional 20% of borrowers are delinquent. Experts warn that due to policy changes and reductions in resources at the Department of Education and the Consumer Financial Protection Bureau, even borrowers who might typically be able to work out payment plans could face severe difficulties navigating the system. The situation is exacerbated by current economic uncertainties.&lt;/p&gt;
 
-&lt;p&gt;## **深入MAGA运动：为“西方文明”而战**
-MAGA（让美国再次伟大）运动的核心支持者如今的斗争目标已超越支持特朗普个人，演变为一场他们眼中为“西方文明”而战的运动。他们将美国视为希腊、罗马和英国等欧洲伟大文明的继承者，强调以他们所解读的自由、法治、精英管理和核心家庭为核心的犹太-基督教价值观。该运动常带怀旧色彩，视上世纪50年代为社会顶峰，并将DEI倡议、LGBTQ权利扩展、性别角色流动及非法移民视为社会衰退的标志。批评者认为此运动具有倒退和种族主义色彩，其所推崇的历史时期恰恰伴随着对女性、少数族裔及LGBTQ群体的压制。&lt;/p&gt;
-
-&lt;p&gt;## **学生贷款催收或比预期更痛苦**
-本周开始，处于违约状态的学生贷款借款人将被移交至债务催收机构，这可能引发比预期更广泛的经济影响。目前已有530万借款人处于违约状态，面临工资、社保福利或退税被扣押的风险，另有20%的借款人处于逾期但尚未违约的状态。由于学生贷款系统管理混乱，教育部和消费者金融保护局等辅助机构功能受损，许多本可避免违约的借款人（包括一些年轻人和传统上风险较低的群体）可能陷入困境。在当前经济衰退担忧、通胀高企及招聘放缓的背景下，这一问题尤为严峻。&lt;/p&gt;
-
-&lt;p&gt;根据今日新闻，向政治家和投资者提供如下决策建议：&lt;/p&gt;
-
-&lt;p&gt;对于政治家而言，当前国际局势复杂，美中贸易关系出现缓和迹象，应抓住机遇稳定预期，同时密切关注中东及乌克兰的和平进程，这不仅关乎地缘政治稳定，也影响能源市场和全球供应链。国内方面，药品价格、移民问题以及政府部门与国会间的紧张关系需要审慎处理，以避免加剧社会分歧。对“新世界螺旋蝇”等公共卫生及农业安全问题需加强跨部门及国际合作，防范风险。&lt;/p&gt;
-
-&lt;p&gt;对于投资者而言，美中贸易关系的积极进展预示着市场风险偏好可能短期回升，相关板块或将受益，但仍需关注周一的具体声明内容。特朗普政府在药品定价上的强硬立场可能对制药行业构成持续压力。地缘政治方面，中东人质获释及俄乌潜在和谈均为积极信号，但根本性解决方案仍不明朗，相关风险溢价短期内难以完全消除。美国国内活牛进口禁令可能影响相关农产品期货及肉类加工企业。学生贷款催收的启动和10%基准关税的持续，可能对消费市场和特定行业成本构成压力，需在投资组合中予以考量。总体而言，市场短期内可能因贸易消息而乐观，但中长期仍需警惕各类政策不确定性和地缘政治风险。&lt;/p&gt;</description>
+&lt;p&gt;Based on today's news, political leaders should focus on clear communication and transparent implementation regarding the new drug pricing order to manage industry and public expectations. Diplomatic efforts concerning the Hamas hostage release and potential Ukraine-Russia talks require careful, steady engagement. For investors, the anticipated U.S.-China trade announcement could bring short-term market optimism, but the long-term impact of persistent baseline tariffs and the specifics of any deal warrant scrutiny. The pharmaceutical sector may face increased uncertainty. The agricultural sector should monitor developments regarding livestock import restrictions. The resumption of student loan collections could dampen consumer spending, impacting retail and credit markets. Geopolitical developments in the Middle East and Eastern Europe continue to be significant wildcards for global markets.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250511</guid>
       <pubDate>Sun, 11 May 2025 00:00:00 -0456</pubDate>
     </item>
